@@ -1,4 +1,4 @@
-#hangman
+#hangman using turtle
 import turtle
 import random
 def draw(x):
